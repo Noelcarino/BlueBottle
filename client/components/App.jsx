@@ -1,4 +1,6 @@
 import React from 'react';
+import Header from './header';
+import css from './styles.css';
 
 export default class App extends React.Component {
     componentDidMount(){
@@ -14,9 +16,9 @@ export default class App extends React.Component {
     }
     render(){
         return (
-            <h1>
-                Blue Bottle
-            </h1>
+            <div className="header">
+                    hello
+            </div>
         )
     }
 }
