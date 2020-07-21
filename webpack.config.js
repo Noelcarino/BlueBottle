@@ -39,7 +39,7 @@ module.exports = {
       '/api': {
         target: 'http://localhost',
         headers: {
-          Host: 'bluebottle.localhost'
+          Host: 'Bluebottle.localhost'
         }
       }
     }
