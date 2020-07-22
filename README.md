@@ -3,7 +3,7 @@
 ### To Do List
 
 ### Front End
-[x] - [7/21 | 11:50pm] Create Basic Header
+[x] - (7/21 | 11:50pm) Create Basic Header
 [ ] - Create A Form Section for Users to add user name
 [ ] - Create a section for users to add other Line Users
 
