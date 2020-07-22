@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './header';
-import css from './styles.css';
+import Header from './header/header';
+import './app_styles.css';
 
 export default class App extends React.Component {
     componentDidMount(){
@@ -16,8 +16,8 @@ export default class App extends React.Component {
     }
     render(){
         return (
-            <div className="header">
-                    hello
+            <div className="container">
+                    <Header />
             </div>
         )
     }
