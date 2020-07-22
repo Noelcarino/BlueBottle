@@ -1,0 +1,9 @@
+h1, p {
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    background-color: #1b262c;
+    color: white;
+    height: 100vh;
+}
