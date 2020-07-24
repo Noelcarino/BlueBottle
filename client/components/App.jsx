@@ -18,6 +18,10 @@ export default class App extends React.Component {
         return (
             <div className="container">
                     <Header />
+
+                    <div className="content-container">
+                        
+                    </div>
             </div>
         )
     }
