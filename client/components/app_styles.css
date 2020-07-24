@@ -6,4 +6,15 @@ h1, p {
     background-color: #1b262c;
     color: white;
     height: 100vh;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+}
+.content-container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;;
+    height: 100%;
+    margin: 0px;
 }
